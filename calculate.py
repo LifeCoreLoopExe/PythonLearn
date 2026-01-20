@@ -128,6 +128,7 @@ from playsound3 import playsound
 import tkinter as tk
 from tkinter import ttk
 import threading
+import math
 
 # Создаем основное окно
 root = tk.Tk()
