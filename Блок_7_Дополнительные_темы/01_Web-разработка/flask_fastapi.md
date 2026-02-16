@@ -1,6 +1,6 @@
 # 🌐 Web-разработка с Flask/FastAPI
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -184,4 +184,4 @@ def delete_task(task_id: int):
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)

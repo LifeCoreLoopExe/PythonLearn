@@ -1,6 +1,6 @@
 # ✅ Тестирование с pytest
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -224,4 +224,4 @@ def test_divide_by_very_small_number():
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)

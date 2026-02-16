@@ -1,6 +1,6 @@
 # λ Lambda-функции
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -94,4 +94,4 @@ def process(x):
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)

@@ -1,6 +1,6 @@
 # ⚠️ Try, Except, Finally
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -157,4 +157,4 @@ if content:
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)

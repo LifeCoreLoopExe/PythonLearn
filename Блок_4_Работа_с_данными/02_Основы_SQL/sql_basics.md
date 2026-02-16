@@ -1,6 +1,6 @@
 # 🗄️ Основы SQL
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -171,4 +171,4 @@ conn.close()
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)

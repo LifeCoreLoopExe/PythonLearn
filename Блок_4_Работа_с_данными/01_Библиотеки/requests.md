@@ -1,6 +1,6 @@
 # 🌐 Библиотека requests
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
 
 ---
 
@@ -131,4 +131,4 @@ download_file('https://example.com/image.jpg', 'image.jpg')
 
 ---
 
-[← Вернуться к roadmap](../../Python_Junior_Roadmap.md)
+[← Вернуться к roadmap](README.md)
